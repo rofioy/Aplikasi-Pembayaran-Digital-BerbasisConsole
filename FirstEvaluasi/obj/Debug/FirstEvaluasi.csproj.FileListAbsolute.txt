@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\FirstEvaluasi\FirstEvaluasi\bin\Debug\FirstEvaluasi.exe.config
+C:\Users\ACER\source\repos\FirstEvaluasi\FirstEvaluasi\bin\Debug\FirstEvaluasi.exe
+C:\Users\ACER\source\repos\FirstEvaluasi\FirstEvaluasi\bin\Debug\FirstEvaluasi.pdb
+C:\Users\ACER\source\repos\FirstEvaluasi\FirstEvaluasi\obj\Debug\FirstEvaluasi.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\FirstEvaluasi\FirstEvaluasi\obj\Debug\FirstEvaluasi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FirstEvaluasi\FirstEvaluasi\obj\Debug\FirstEvaluasi.exe
+C:\Users\ACER\source\repos\FirstEvaluasi\FirstEvaluasi\obj\Debug\FirstEvaluasi.pdb
+D:\Semester 5\SisTer\Pertemuan 1\FirstEvaluasi\FirstEvaluasi\bin\Debug\FirstEvaluasi.exe.config
+D:\Semester 5\SisTer\Pertemuan 1\FirstEvaluasi\FirstEvaluasi\bin\Debug\FirstEvaluasi.exe
+D:\Semester 5\SisTer\Pertemuan 1\FirstEvaluasi\FirstEvaluasi\bin\Debug\FirstEvaluasi.pdb
+D:\Semester 5\SisTer\Pertemuan 1\FirstEvaluasi\FirstEvaluasi\obj\Debug\FirstEvaluasi.csproj.AssemblyReference.cache
+D:\Semester 5\SisTer\Pertemuan 1\FirstEvaluasi\FirstEvaluasi\obj\Debug\FirstEvaluasi.csproj.CoreCompileInputs.cache
+D:\Semester 5\SisTer\Pertemuan 1\FirstEvaluasi\FirstEvaluasi\obj\Debug\FirstEvaluasi.exe
+D:\Semester 5\SisTer\Pertemuan 1\FirstEvaluasi\FirstEvaluasi\obj\Debug\FirstEvaluasi.pdb
